@@ -1,0 +1,97 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: aquamarine;
+  color: black;
+}
+
+.container{
+  width: 380px;
+  height: 450px;
+  background-color:white;
+  margin: 5%  auto 5% auto;
+  padding-top: 50px;
+  color: black;
+  color: rgb(162, 149, 149) ;
+  box-shadow: 1px 1px 15px 0px gray;
+}
+
+button{
+  width: 98%;
+  height: 30px;
+  color:white;
+  font-size: 18px;
+  background-color: aqua;
+  border: none;
+  border-radius: 3px;
+}
+.form>p{
+  font-size: 25xp;
+}
+
+form>p{
+  width: 98%; 
+  height: 31px ;
+  border:1px  solid rgb(248, 234, 234); 
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-left: 1%;
+  border-radius: 3px;
+}
+
+.left{
+  text-align: left;
+  
+}
+
+form>p>i{
+  margin-top: 8px;
+  margin-left: 2px;
+  display: block;
+  float: left;
+  padding-left: 3px;
+  border-right: 1px  solid rgb(248, 234, 234);  ;
+}
+
+form>p>input{
+ margin-left: 4px;
+ height: 25px;
+ width: 278px;
+ padding: 2px 4px 2px 4px;
+ border: 1px  solid rgb(248, 234, 234);  ;
+ background-color: rgb(242, 240, 220);
+
+}
+
+.form{
+  width:85%;
+  margin-top: 20px;
+  margin-left: 5%;
+  padding: 5% auto 3% auto;
+  text-align: center;
+}
+a{
+  text-decoration-color: rgb(162, 149, 149);
+  color: rgb(162, 149, 149) ;
+}
+
+
+.p1{
+  border-top: 1px  solid rgb(243, 232, 232);
+  border-bottom:1px  solid rgb(248, 234, 234); ;
+  margin-top: 70px;
+  text-align: right;
+  padding: 10px 10px 22px 0;
+  background-color: rgb(253, 249, 249);
+}
+
+.p2{
+  margin-top: 20px;
+  text-align: right;
+  padding: 10px 10px 22px 0;
+}
+
+.p2>p>a{
+  text-decoration: none;
+}
